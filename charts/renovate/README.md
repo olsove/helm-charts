@@ -48,7 +48,7 @@ The following table lists the configurable parameters of the chart and the defau
 | cronjob.successfulJobsHistoryLimit | string | `""` |  |
 | image.pullPolicy | string | `"IfNotPresent"` |  |
 | image.repository | string | `"renovate/renovate"` |  |
-| image.tag | string | `"19.209.0"` |  |
+| image.tag | string | `"19.216.6"` |  |
 | pod.annotations | object | `{}` |  |
 | pod.labels | object | `{}` |  |
 | renovate.config | string | `""` |  |
